@@ -1,2 +1,1 @@
-
 print("DICT Python education")
